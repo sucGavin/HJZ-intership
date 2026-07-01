@@ -1,0 +1,4 @@
+算法,文件,功率约束,电量约束,末端电量约束,购电成本复算一致,综合运行成本复算一致,储能等效运行成本/万元,购电成本复算/万元,综合运行成本复算/万元,电量曲线一致,购电功率曲线一致
+逻辑判断基准策略,logic_typical_day_dispatch.csv,True,True,True,True,True,0.23781953932499375,77.07897489943122,77.3167944387562,True,True
+PSO,pso_typical_day_dispatch.csv,True,True,True,True,True,0.5460725662352196,76.13925240438478,76.68532497062,True,True
+DE,de_typical_day_dispatch.csv,True,True,True,True,True,0.4687889641592392,77.26071186567087,77.72950082983012,True,True
